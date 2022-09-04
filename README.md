@@ -22,10 +22,22 @@ Code for Main: <br />
 <br />
 <img src="https://i.imgur.com/iVR0b7i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
- Code for Accounts <br />
+Code for Accounts: <br />
 <img src="https://i.imgur.com/qufVvmm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/bIREcnZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Screen on launch and choice 1: <br />
+<img src="https://i.imgur.com/sJjXgWx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Choice 2 and 3: <br />
+<img src="https://i.imgur.com/DC3DKMu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Choice 6: <br />
+<img src="https://i.imgur.com/pfa1muJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Choice 7: <br />
+<img src="https://i.imgur.com/KXWOzpn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
