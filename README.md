@@ -1,8 +1,8 @@
-<h1>Test</h1>
+<h1>Banking Account Code</h1>
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of multiple files of code to run. The main file consists of a menu that allows you to creat a new checking or savings account, deposit or withdraw from a given account, and display all the accounts in order by checking and savings.
 <br />
 
 
@@ -17,10 +17,16 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Program walk-through:</h2>
 
 <p align="center">
-<br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Code for Main: <br />
+<img src="https://i.imgur.com/YkPm9fG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
+<img src="https://i.imgur.com/iVR0b7i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+ Code for Accounts <br />
+<img src="https://i.imgur.com/qufVvmm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/bIREcnZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 </p>
 
 <!--
